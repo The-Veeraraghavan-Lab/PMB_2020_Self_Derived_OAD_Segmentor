@@ -4,7 +4,7 @@ This is the code for the organ attention based unpaired domain adaptation and MR
 ## Prerequisities
 Python, PyTorch, Numpy, Scipy, Matplotlib, and a recent NVIDIA GPU
 ## Train
-python train_PSIGAN.py
+python train.py  --dataroot ./dataset/maps --name model_seg --model Organ_attention.py --checkpoints_dir ./output/ --batchSize 2 --Net [Unet|DenseNet|Split-Unet] --Organ_Attention_Type [concat|dot|add]
 ## NOTE
 This code is being updated: 
 ## Acknowledgement
