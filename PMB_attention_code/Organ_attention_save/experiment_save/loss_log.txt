@@ -1,0 +1,4 @@
+================ Training Loss (Thu Jul  9 15:22:42 2020) ================
+(epoch: 1, iters: 10, time: 0.536) D_A: 0.548 G_A: 0.832 Cyc_A: 1.838 D_B: 1.032 G_B: 1.507 Cyc_B: 3.525 Seg_B: 0.000 loss_G_A_loca: 1.016 seg_loss_Real_B: 0.000 seg_loss_fake_B: 0.000 seg_loss_Attention_fake_B: 0.000 G_A_struct: 1.016 D_A_struct: 0.380 
+(epoch: 2, iters: 10, time: 0.514) D_A: 0.348 G_A: 1.314 Cyc_A: 1.364 D_B: 0.361 G_B: 0.906 Cyc_B: 1.865 Seg_B: 0.000 loss_G_A_loca: 1.053 seg_loss_Real_B: 0.000 seg_loss_fake_B: 0.000 seg_loss_Attention_fake_B: 0.000 G_A_struct: 1.053 D_A_struct: 0.344 
+(epoch: 3, iters: 10, time: 0.509) D_A: 1.010 G_A: 1.698 Cyc_A: 1.399 D_B: 0.130 G_B: 0.851 Cyc_B: 2.083 Seg_B: 0.000 loss_G_A_loca: 1.321 seg_loss_Real_B: 0.000 seg_loss_fake_B: 0.000 seg_loss_Attention_fake_B: 0.000 G_A_struct: 1.321 D_A_struct: 0.191 
